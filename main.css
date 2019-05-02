@@ -1,0 +1,31 @@
+ body {
+     background: #e3e3e3;
+     margin: 0;
+     overflow: hidden;
+     text-align: center;
+     margin-top: 5%;
+ }
+
+ #container {
+     position: center;
+     left: 100px;
+     width: 500px;
+     height: 300px;
+     border: 5px black solid;
+     background-color: #EEE;
+     cursor: pointer;
+ }
+
+ #snakeHead {
+     background: green;
+     width: 20px;
+     height: 20px;
+ }
+
+ #food {
+     background: red;
+     width: 20px;
+     height: 20px;
+ }
+
+ //hellos
